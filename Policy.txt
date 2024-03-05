@@ -1,8 +1,8 @@
-rivacy Policy for "QuiverUp".
+Privacy Policy 
 
 Information we collect
 
-We made "QuiverUp" with your privacy in mind, so we do not collect personally identifiable information about you. 
+We made our app with your privacy in mind, so we do not collect personally identifiable information about you. 
 
 We may (but probably not) collect non-personal identification, such as device-specific information, including your operating system version, system language and more. All of these are for serving you better.
 
